@@ -5,7 +5,7 @@ out of the box. but these controllers are basic ones so you can test the bundle 
 
 ## Controllers
 
-All the controllers mostly implements one of the three available services (see services section for mor information).
+All the controllers mostly implements one of the three available services (see services section for more information).
 Except for those who are used for listings, where they just call the Entity Manager.
 
   - QuizManagerController.php: for CRUD on Quizes. 
